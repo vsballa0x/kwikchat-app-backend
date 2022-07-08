@@ -1,0 +1,17 @@
+# Compiled output
+/dist
+/node_modules
+
+# Logs
+yarn-debug.log
+yarn-error.log
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Env
+.env
